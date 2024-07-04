@@ -2,7 +2,7 @@
 
 This project is a React-based currency exchange application that allows users to convert between different currencies using real-time exchange rates.
 
-![Currency Exchange App Screenshot](./assets/screenshot.png)
+![Currency Exchange App Screenshot](https://github.com/sercanbaris/Currency-Exchange-App/blob/main/src/assets/screenshot.png)
 
 ## Features
 
