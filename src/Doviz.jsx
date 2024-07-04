@@ -33,7 +33,7 @@ export default function index() {
 
   return (
     <div>
-      <h2>Currency App</h2>
+      <h2>Currency Exchange App</h2>
 
       <div className="containerX">
         <input
